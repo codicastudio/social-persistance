@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/socialpersistance",
+    "name": "codica-studio/socialpersistance",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/socialpersistance",
+    "homepage": "https://github.com/codica-studio/socialpersistance",
     "license": "MIT",
     "authors": [
         {
