@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/socialpersistance",
+    "name": "codicastudio/social-persistance",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/socialpersistance",
+    "homepage": "https://github.com/codicastudio/social-persistance",
     "license": "MIT",
     "authors": [
         {
@@ -35,6 +35,6 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
